@@ -1,0 +1,112 @@
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll.config
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.pdb
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csc.exe
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csc.exe.config
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csc.rsp
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csi.exe
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csi.exe.config
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csi.rsp
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.AppContext.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Collections.Immutable.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Console.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.Compression.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.FileSystem.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.Pipes.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Reflection.Metadata.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.AccessControl.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Claims.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.ValueTuple.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.XPath.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\vbc.exe
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\vbc.exe.config
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\vbc.rsp
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\VBCSCompiler.exe
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\roslyn\VBCSCompiler.exe.config
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csprojAssemblyReference.cache
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csproj.CoreCompileInputs.cache
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csproj.CopyComplete
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.dll
+C:\PluralSight Projects\Path_C Sharp\Whats new in CSharp 6\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.pdb
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll.config
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\ResponsivePatterns.pdb
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csc.exe
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csc.exe.config
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csc.rsp
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csi.exe
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csi.exe.config
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\csi.rsp
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.AppContext.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Console.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.Compression.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.FileSystem.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.IO.Pipes.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.AccessControl.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Claims.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.ValueTuple.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.XPath.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\vbc.exe
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\vbc.exe.config
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\vbc.rsp
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\VBCSCompiler.exe
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csprojAssemblyReference.cache
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csproj.CoreCompileInputs.cache
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.csproj.CopyComplete
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.dll
+C:\Dev Projects\Bootstrap\Responsive Websites with Bootstrap 3\Bootsrap3-cdn\ResponsivePatterns\ResponsivePatterns\obj\Debug\ResponsivePatterns.pdb

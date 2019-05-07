@@ -1,0 +1,71 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+/*    padding-top: 80px;*/
+}
+html,
+body{
+    height: 100%;
+}
+header{
+    display: block;
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 100px 0;
+    min-height: 100%;
+    background: no-repeat center center;
+    background-attachment: scroll;
+    background-color: #222;
+    background-size: cover;
+}
+.navbar{
+    padding: 25px 15px;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+.cbp-af-header-shrink {
+    opacity: 0.7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+.fill-screen {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.content-filler{
+    min-height: 350px;
+    
+}
+.fixed-attachment{
+    background-attachment: fixed;
+}
+@media (max-width: 1024px){
+    .fixed-attachment{
+        background-attachment: scroll;
+    }
+}
+@media (max-width: 383px) {
+    .navbar-header{
+        position: relative;
+    }
+    .navbar img{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        width: 70%;
+    }
+    .navbar button,
+    {
+        width: 20%;
+    }
+   
+}
